@@ -44,34 +44,18 @@ I love reverse-engineering systems to understand *how things work under the hood
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=puransingh8&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=puransingh8&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puransingh8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puransingh8&layout=compact&langs_count=8&theme=tokyonight" height="170" />
-</p> -->
-
-<!-- 🔥 Fancy Banner (Optional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=35&animation=fadeIn" />
-</p>
-
-<!-- 📈 Streak and Trophy (Vertical) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puransingh8&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&fontColor=ffffff&fontSize=30&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=puransingh8&theme=tokyonight" />
 </p>
 
-<!-- 🔽 Collapsible Section for Side-by-Side Stats -->
 <details>
   <summary>📊 View Detailed GitHub Stats</summary>
   <br/>
@@ -80,8 +64,6 @@ I love reverse-engineering systems to understand *how things work under the hood
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puransingh8&layout=compact&langs_count=8&theme=tokyonight" height="170" />
   </p>
 </details>
-
-
 
 ---
 
