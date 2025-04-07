@@ -49,10 +49,6 @@ I love reverse-engineering systems to understand *how things work under the hood
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&fontColor=ffffff&fontSize=30&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=puransingh8&theme=tokyonight" />
 </p>
 
