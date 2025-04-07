@@ -43,12 +43,9 @@ I love reverse-engineering systems to understand *how things work under the hood
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puransingh8&show_icons=true&theme=tokyonight" alt="Puran's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puransingh8&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=puransingh8&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puransingh8&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=puransingh8&theme=tokyonight" />
+    <img src="https://github-profile-trophy.vercel.app/?username=puransingh8&theme=tokyonight" />
 </p>
 
 <p align="center">
