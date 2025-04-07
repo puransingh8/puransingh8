@@ -6,8 +6,6 @@
 ### 🔭 About Me
 
 - 👨‍💻 I'm currently working at **[Flexmoney](https://flexmoney.in/)** as a Software Engineer  
-- 🏦 Flexmoney is a FinTech startup revolutionizing **Cardless EMIs**
-- 🌱 Always curious — currently learning **Golang** for network-heavy apps  
 - 🛠️ Tinkering with personal projects to experiment with different tech stacks
 
 ---
